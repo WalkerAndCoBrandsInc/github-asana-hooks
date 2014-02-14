@@ -1,5 +1,5 @@
 require 'spec_helper'
 
-describe WebhookController do
+describe WebhooksController do
 
 end
